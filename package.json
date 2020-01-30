@@ -1,0 +1,10 @@
+{
+  "name": "Youtube",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "v3": "^0.0.0",
+    "ytdl-core": "^1.0.7"
+  }
+}
